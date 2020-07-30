@@ -39,6 +39,13 @@ h3{
 	font-family: "Comic Sans MS", cursive;
 	text-align: center;
 	font-size: 40px;
+	color: #000000;
+	font-weight:bold;
+	margin-top: 0px;
+}
+h5{	font-family: "Comic Sans MS", cursive;
+	text-align: center;
+	font-size: 40px;
 	color: #8b1c40;
 	font-weight:bold;
 	margin-top: 0px;
@@ -74,12 +81,11 @@ h4{
 	color: #8b1c40;
 }
 .why{
-	background:#85BA78;	
+	background: #158E07;	
 	margin: 0px;
 	padding: 20px;
 }
-.image{
-	background:#85BA78;	
+.image{	
 	margin: 0px;
 	padding: 20px;
 }
